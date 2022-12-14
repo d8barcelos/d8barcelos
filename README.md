@@ -1,4 +1,3 @@
-## adhklahdjkaldjlad
 
 <div>
   
@@ -20,10 +19,10 @@
   
   <h1 align="center">Social</h1>
     <a href = "mailto: d8barcelos@gmail.com">
-      <img width="15" src="gmail.svg">
+      <img width="30" src="gmail.svg">
     </a>
     <a href = "www.linkedin.com/in/diogo-barcelos">
-      <img width="20" src="linkedin.svg">
+      <img width="30" src="linkedin.svg">
     </a>
 </div>
   
