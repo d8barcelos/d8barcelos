@@ -11,9 +11,11 @@
     <img align="left" height="250" alt="coding-time" src="code.gif">
     <h1 align="center">Tecnologies</h1>
     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" height="30" width="40" alt="mongodb-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
     <img align="center" height="30" width="40" alt="figma-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+    <img align="center" height="30" width="40" alt="python-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
    </div>
     
   
