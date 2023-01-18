@@ -1,7 +1,7 @@
 
 <div>
   
- https://github-readme-stats.vercel.app/api?username=d8barcelos)](https://github.com/d8barcelos/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=d8barcelos)](https://github.com/d8barcelos/github-readme-stats)
 
 </div>
 <br>
