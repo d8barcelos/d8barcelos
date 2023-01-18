@@ -1,8 +1,7 @@
 
 <div>
   
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=d8barcelos&show_icons=true&theme=dark)](https://github.com/d8barcelos/github-readme-stats)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d8barcelos&layout=compact&show_icons=true&theme=dark)](https://github.com/d8barcelos/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d8barcelos&layout=compact&show_icons=true&theme=dark)](https://github.com/d8barcelos/github-readme-stats)
 
 </div>
 <br>
