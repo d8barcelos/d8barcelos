@@ -20,7 +20,7 @@
     <a href = "mailto: d8barcelos@gmail.com">
       <img width="30" src="gmail.svg">
     </a>
-    <a href = "https://www.linkedin.com/in/diogo-barcelos/">
+    <a margin-left="10px" href = "https://www.linkedin.com/in/diogo-barcelos/">
       <img width="30" src="linkedin.svg">
     </a>
 </div>
