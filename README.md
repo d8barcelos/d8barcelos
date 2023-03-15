@@ -16,13 +16,19 @@
   </div>
     
   
-  <h1 align="center">Social</h1>
+  <h1 class="social" align="center">Social</h1>
     <a href = "mailto: d8barcelos@gmail.com">
       <img width="30" src="gmail.svg">
     </a>
-    <a margin-left="10px" href = "https://www.linkedin.com/in/diogo-barcelos/">
+    <a href = "https://www.linkedin.com/in/diogo-barcelos/">
       <img width="30" src="linkedin.svg">
     </a>
 </div>
+
+<style>
+  .social {
+  gap: 10px;
+  }
+</style>
   
 ![Snake animation](https://github.com/d8barcelos/d8barcelos/blob/output/github-contribution-grid-snake.svg)
