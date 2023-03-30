@@ -1,7 +1,7 @@
 
 <div align = "center">
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d8barcelos&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d8barcelos&theme=dark)
 
 </div>
 <br>
