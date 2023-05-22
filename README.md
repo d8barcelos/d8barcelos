@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Diogo</h1>
 <h3 align="center">front-end developer</h3>
 
-- 🌱 I’m currently learning **typescript, c#**
+- 🌱 I’m currently learning **c#**
 
 - 👨‍💻 All of my projects are available at [d8barcelosportfolio.netlify.app/](https://d8barcelosportfolio.netlify.app/)
 
