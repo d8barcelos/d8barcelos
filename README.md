@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [d8barcelosportfolio.netlify.app/](d8barcelosportfolio.netlify.app/)
 
-- 💬 Ask me about **react.js, javascript, tailwind**
+- 💬 Ask me about **react.js, javascript, tailwind CSS**
 
 - 📫 How to reach me **d8barcelos@gmail.com**
 
