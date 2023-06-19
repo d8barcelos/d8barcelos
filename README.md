@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Diogo</h1>
-<h3 align="center">front-end developer</h3>
+<h3 align="center">Front-end developer</h3>
 
-- 🌱 I’m currently learning **typescript, c#**
+- 🌱 I’m currently learning **Next.js, C#**
 
 - 👨‍💻 All of my projects are available at [d8barcelosportfolio.netlify.app/](d8barcelosportfolio.netlify.app/)
 
-- 💬 Ask me about **react.js, tailwind CSS**
+- 💬 Ask me about **React.js, TypeScript**
 
 - 📫 How to reach me **d8barcelos@gmail.com**
 
