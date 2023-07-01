@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Next.js, C#**
 
-- 👨‍💻 All of my projects are available at d8barcelosportfolio.netlify.app/
+- 👨‍💻 All of my projects are available at (d8barcelosportfolio.netlify.app/)
 
 - 💬 Ask me about **React.js, TypeScript**
 
