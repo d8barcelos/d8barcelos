@@ -17,4 +17,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=d8barcelos&show_icons=true&theme=dark&locale=en&layout=compact" alt="d8barcelos" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=d8barcelos&theme=dark" alt="d8barcelos" /></p>
