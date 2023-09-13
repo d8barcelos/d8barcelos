@@ -51,7 +51,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/d8barcelos/d8barcelos/output/snake.svg" alt="Snake animation" />
-
-###
