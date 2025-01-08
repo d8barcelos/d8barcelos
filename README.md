@@ -35,7 +35,7 @@
 ### 📊 Stats & Analytics
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=d8barcelos&theme=radical&hide_border=true" height="200" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=d8barcelos&theme=github-compact&hide_border=true" height="200" alt="Contribution Graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=d8barcelos&layout=compact&theme=radical&hide_border=true" height="170" alt="Top Languages" />
 </div>
 ---
