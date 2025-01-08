@@ -35,14 +35,9 @@
 ### 📊 Stats & Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=d8barcelos&show_icons=true&theme=radical&hide_border=true" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=d8barcelos&theme=radical&hide_border=true" height="200" alt="Contribution Graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=d8barcelos&layout=compact&theme=radical&hide_border=true" height="170" alt="Top Languages" />
 </div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=d8barcelos&theme=radical&hide_border=true" height="170" alt="GitHub Streak" />
-</div>
-
 ---
 
 ### 🎨 Customized Badges & Banners
