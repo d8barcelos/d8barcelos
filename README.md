@@ -36,7 +36,7 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=d8barcelos&theme=react-dark&hide_border=true" height="200" alt="Contribution Graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=d8barcelos&layout=compact&theme=transparent&hide_border=true" height="170" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=d8barcelos&layout=compact&theme=shadow-blue&hide_border=true" height="170" alt="Top Languages" />
 </div>
 ---
 
