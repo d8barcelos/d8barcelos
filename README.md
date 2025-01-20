@@ -38,28 +38,5 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=d8barcelos&theme=react-dark&hide_border=true" height="200" alt="Contribution Graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=d8barcelos&layout=compact&theme=shadow_blue&hide_border=false" height="170" alt="Top Languages" />
 </div>
----
-
-### 🎨 Customized Badges & Banners
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Code-C%23-blue?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/Code-Java-orange?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Tools-Docker-blue?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Hobbies-Souls--Like%20Games-critical?style=for-the-badge" alt="Hobbies" />
-</p>
-
----
-
-### 🧩 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/d8barcelos" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:diogo@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
 
 ---
