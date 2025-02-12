@@ -10,7 +10,7 @@
 
 - 🌍 I'm from **Brazil**
 - 🔭 Currently working as a **Software Developer**
-- 📚 Currently learning **C++**
+- 📚 Currently learning **YARP**
 - 🎮 Free time? You'll find me playing **Souls-like games** or watching **horror movies**
 - ✉️ Reach out: **d8barcelos@gmail.com**
 
